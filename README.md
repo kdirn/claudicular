@@ -1,6 +1,6 @@
 # Claudicular
 
-Claudicular is my own for of the public Rust implementation of the `claw` CLI agent harness.
+Claudicular is my own fork of the public Rust implementation of the `claw` CLI agent harness.
 The canonical implementation lives in [`rust/`](./rust), and the current source of truth for this repository is **ultraworkers/claw-code**.
 
 > [!IMPORTANT]
